@@ -1,0 +1,4 @@
+repository "AdPro - Drifting Game@Exaiystic@cloud"
+  path "/"
+    br "/main"
+    co "/main"
